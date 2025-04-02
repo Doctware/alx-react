@@ -1,4 +1,4 @@
-     ## Introduction to REACTjs
+     # Introduction to REACTjs
 
 * How to create and nest components
 * How to add markup and styles
